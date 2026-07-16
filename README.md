@@ -6,7 +6,7 @@
 
 ---
 
-The waveform visualizer is a website I made in HTML and JS that is used to see the waveform of the uploaded file in the website. 
+The waveform visualizer is a website I made in HTML and JS that is used to view the waveform of the uploaded file on the website. 
 
 ---
 Library used:
@@ -22,3 +22,7 @@ Their Website:
 Credit to [CodingShiksha](https://www.youtube.com/@CodingShiksha) on YouTube for the tutorial
 
 [https://www.youtube.com/live/jE4FUFERfqI?si=IA26gxe-pAsqZRg1](https://www.youtube.com/live/jE4FUFERfqI?si=IA26gxe-pAsqZRg1)
+
+Favicon:
+
+[https://www.nicepng.com/ourpic/u2r5w7e6q8q8e6w7_previous-sound-icon/](https://www.nicepng.com/ourpic/u2r5w7e6q8q8e6w7_previous-sound-icon/)
