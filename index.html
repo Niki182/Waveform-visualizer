@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waveform Visualizer</title>
+    <script src="https://unpkg.com/wavesurfer.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="favicon/NicePng_avatar-aang-png_5485892.png" type="image/x-icon">
+</head>
+<body>
+    <input type="file" accept="audio/*, video/*" required id="audio-input">
+    <div id="waveform"></div>
+    <div id="bottom">
+        <button id="play-button"><i class="fa fa-play"></i></button>
+        <button id="stop-button"><i class="fa fa-stop"></i></button>
+    </div>
+    <a href="https://github.com/Niki182/Waveform-visualizer" target="_blank" style="text-decoration: none;"><button class="github"><i class="fa fa-github" style="margin-right: 5px;"></i>Github Code</button></a>
+    <script src="scripts.js"></script>
+</body>
+</html>
